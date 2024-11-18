@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <BrowseContent>
   <ContentElement 
-      TitleText="Introduction to Motosexual"
-      ImageUrl="https://example.com/images/introduction.jpg"
-      ImageText="An introduction image for Motosexual platform."
-      VideoUrl="https://example.com/videos/introduction.mp4"
-      VideoText="Watch this introductory video to learn more." />
+      TitleText="Welcome in Motosexual App"
+      ImageUrl=""
+      ImageText="."
+      VideoUrl="lf7lB_i-LRM&ampt"
+      VideoText="" />
   
   <ContentElement 
       TitleText="Motorcycle Maintenance Tips"
