@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BrowseContent>
+  <ContentElement 
+      TitleText="Welcome in Motosexual App"
+      ImageUrl=""
+      ImageText=""
+      VideoUrl="https://www.youtube.com/embed/4ZahVuD8zxc"
+      VideoText="" />
+  
+  <ContentElement 
+      TitleText="Motorcycle Maintenance Tips"
+      ImageUrl="https://example.com/images/maintenance.jpg"
+      ImageText="Image showing tools and motorcycle maintenance."
+      VideoUrl="https://example.com/videos/maintenance-tips.mp4"
+      VideoText="Detailed video guide on maintaining your motorcycle." />
+  
+  <ContentElement 
+      TitleText="Top Motorcycle Routes"
+      ImageUrl="https://example.com/images/routes.jpg"
+      ImageText="Stunning views from the top motorcycle routes."
+      VideoUrl="https://example.com/videos/routes.mp4"
+      VideoText="Explore the best motorcycle routes with this video guide." />
+  
+  <ContentElement 
+      TitleText="Rider Safety Essentials"
+      ImageUrl="https://example.com/images/safety.jpg"
+      ImageText="Essential safety gear for every motorcycle rider."
+      VideoUrl="https://example.com/videos/safety.mp4"
+      VideoText="Learn about essential safety measures while riding." />
+</BrowseContent>
