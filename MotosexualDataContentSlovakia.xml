@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Items>
+    <Item>
+        <TitleText>Štartovanie</TitleText>
+        <ImageUrl>https://drive.google.com/file/d/17jAlZl1is6YZxWhLMcVFp-K008evNYGm</ImageUrl>
+        <ImageText>Sexy botom chalani sú ideálny na štartovanie motorky spolu so sexom</ImageText>
+        <VideoUrl>https://www.youtube.com/embed/4ZahVuD8zxc</VideoUrl>
+        <VideoText>Takto prdí výfuk pri štartovaní motorky, kým pritláčam sexy bottoma o nádrž</VideoText>
+    </Item>
+    <Item>
+        <TitleText>Sample Title 2</TitleText>
+        <ImageUrl>https://example.com/image2.jpg</ImageUrl>
+        <ImageText>Description for Image 2</ImageText>
+        <!-- VideoUrl is empty for this item -->
+        <!-- VideoText is empty for this item -->
+    </Item>
+    <Item>
+        <!-- TitleText is empty for this item -->
+        <ImageUrl>https://example.com/image3.jpg</ImageUrl>
+        <ImageText>Description for Image 3</ImageText>
+        <VideoUrl>https://example.com/video2.mp4</VideoUrl>
+        <VideoText>Description for Video 2</VideoText>
+    </Item>
+    <Item>
+        <TitleText>Sample Title 3</TitleText>
+        <!-- ImageUrl is empty for this item -->
+        <!-- ImageText is empty for this item -->
+        <VideoUrl>https://example.com/video3.mp4</VideoUrl>
+        <VideoText>Description for Video 3</VideoText>
+    </Item>
+</Items>
